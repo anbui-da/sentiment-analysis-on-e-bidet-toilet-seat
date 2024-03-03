@@ -1,8 +1,8 @@
 # Sentiment-analysis-on-e-bidet-toilet-seat
 ## Project context
 ABC Company, a leader in sanitary ware, aims to enhance bathroom experiences with its new electric bidet toilet seat, particularly for the North American market. Understanding customer preferences, pain points, and expectations is key to the new product development.
-![image](https://github.com/anbui-da/sentiment-analysis-on-e-bidet-toilet-seat/assets/58675665/2d0d658b-a7b2-4864-b40b-3ad70d7f23c4)
 
+![image](https://github.com/anbui-da/sentiment-analysis-on-e-bidet-toilet-seat/assets/58675665/4caed83e-3e61-477f-a841-c54f1dbacab3)
 
 ## Process:
 - Scraping customer reviews on available e-bidets that are being sold on Amazon website
